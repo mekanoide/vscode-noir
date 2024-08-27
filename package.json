@@ -2,6 +2,10 @@
   "name": "theme-noir",
   "displayName": "theme-noir",
   "description": "A dark and mostly black and  white theme for Visual Studio Code",
+  "license": "MIT",
+  "publisher": "mekanoide",
+  "author": "mekanoide",
+  "repository": "https://github.com/mekanoide/vscode-noir",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
