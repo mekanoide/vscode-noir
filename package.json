@@ -1,0 +1,21 @@
+{
+  "name": "theme-noir",
+  "displayName": "theme-noir",
+  "description": "A dark and mostly black and  white theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-noir-color-theme.json"
+      }
+    ]
+  }
+}
